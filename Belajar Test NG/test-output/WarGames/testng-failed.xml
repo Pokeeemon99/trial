@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WarGames]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" name="Weapon(failed)">
+    <classes>
+      <class name="com.juaracoding.weapon.WeaponTest">
+        <methods>
+          <include name="testShoot"/>
+          <include name="setUp"/>
+          <include name="testAmmo"/>
+          <include name="testReload"/>
+        </methods>
+      </class> <!-- com.juaracoding.weapon.WeaponTest -->
+    </classes>
+  </test> <!-- Weapon(failed) -->
+</suite> <!-- Failed suite [WarGames] -->
