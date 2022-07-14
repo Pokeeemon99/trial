@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [com.phptravels.home.VisaTest]">
+  <test thread-count="5" verbose="0" name="Command line test(failed)">
+    <classes>
+      <class name="com.phptravels.home.VisaTest">
+        <methods>
+          <include name="closeDriver"/>
+          <include name="setupDriver"/>
+          <include name="formTest"/>
+        </methods>
+      </class> <!-- com.phptravels.home.VisaTest -->
+    </classes>
+  </test> <!-- Command line test(failed) -->
+</suite> <!-- Failed suite [com.phptravels.home.VisaTest] -->
