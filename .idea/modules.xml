@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Screenshoot negative test tokped/BelajarScreenShoot.iml" filepath="$PROJECT_DIR$/Screenshoot negative test tokped/BelajarScreenShoot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Selenium_WebDriver.iml" filepath="$PROJECT_DIR$/.idea/Java-Selenium_WebDriver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyKasus-TravelAgent(maven, testNG, selenium)/StudyKasus.iml" filepath="$PROJECT_DIR$/StudyKasus-TravelAgent(maven, testNG, selenium)/StudyKasus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StudyKasus-Fitur-Harga-Toko-Online-Maven-TesNG-Selenium-Java/desta-sqa.iml" filepath="$PROJECT_DIR$/StudyKasus-Fitur-Harga-Toko-Online-Maven-TesNG-Selenium-Java/desta-sqa.iml" />
+    </modules>
+  </component>
+</project>
